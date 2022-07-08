@@ -1,7 +1,7 @@
 ---
-title: [Testing 2: The Title Awakens]
+title: [The Title Awakens]
 date: [2022-07-07]
-tags: [testing;havingfun]
+tags: [testing,havingfun]
 category: [draft]
 publish: [true]
 featured: [true]
