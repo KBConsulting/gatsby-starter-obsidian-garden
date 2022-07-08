@@ -1,12 +1,12 @@
 ---
-title: [The Title Awakens]
-date: [2022-07-07]
+title: The Title Awakens
+date: 2022-07-07
 tags: [testing,havingfun]
-category: [draft]
-publish: [true]
-featured: [true]
-socialImage: []
-stage: [Evergreen]
+category: draft
+publish: true
+featured: true
+socialImage: 
+stage: Evergreen
 ---
  
 
