@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "5baef7734b620f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce748a2eb4fd0608",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MacOS stuff/Untitled2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aeb2d6601097658",
+    "type": "split",
+    "children": [
+      {
+        "id": "96103e440853ad42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fd260255856f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdab140e849a1957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb43ddf69cb68f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0740de1edd46f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba21cf5ffb18352e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MacOS stuff/Untitled2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ce748a2eb4fd0608",
+  "lastOpenFiles": [
+    "MacOS stuff/Untitled2.md",
+    "Testing 1.md"
+  ]
+}
