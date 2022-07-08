@@ -1,13 +1,20 @@
 ---
-aliases: [] 
-categories: [] 
-date: [] 
-tags: [] 
-title: []
-publish: [false]
+title: [Testing 2: The Title Awakens]
+date: [2022-07-07]
+tags: [testing;havingfun]
+category: [draft]
+publish: []
+featured: [true]
+socialImage: []
+stage: [Evergreen]
 ---
+ 
 
-publish: false
+
+
+
+
+
 
 This is a test of not publishing
 
