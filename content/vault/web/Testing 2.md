@@ -6,7 +6,7 @@ category: draft
 publish: true
 featured: true
 socialImage: 
-stage: Evergreen
+stage: evergreen
 ---
  
 
